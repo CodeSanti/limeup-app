@@ -1,5 +1,3 @@
-[limeup-app.html](https://github.com/user-attachments/files/28041325/limeup-app.html)
-<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
